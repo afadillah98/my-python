@@ -39,3 +39,4 @@ thislist.insert(1, "Leci")
 thislist.remove("orange")
 for x in thislist:
     print(x)
+
